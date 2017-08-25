@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "authors": [
+    "Sunil Patel <sunil.patel@digi-corp.com>"
+  ],
+  "description": "Hello",
+  "main": "index.js",
+  "keywords": [
+    "Test"
+  ],
+  "license": "MIT",
+  "homepage": "test.com"
+}
